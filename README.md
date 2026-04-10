@@ -20,7 +20,7 @@ This project is structured as **Vertical Slices**, not horizontal layers.
 
 ### Why Vertical Slices?
 
-| Horizontal Thinking ❌ | Vertical Slice Thinking ✅ |
+| Horizontal Thinking  | Vertical Slice Thinking  |
 |---|---|
 | Build all UI first, then all DB | Build one complete feature at a time |
 | No working system for weeks | Each slice delivers a working feature |
